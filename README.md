@@ -1,4 +1,22 @@
 <p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="dsh-purge 存档：上游 YuJunZhiXue/dsh-purge v1.1.71 的归档副本，非自研">
+</p>
+
+> **存档声明：本仓库是上游 [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) v1.1.71 的归档副本，不是自研项目。** 作者、代码、提示词与商业许可全部归上游所有，署名要求与许可证见下文原文。上游已于 2026-10-27 起停止在 GitHub 发新版本，后续版本只在上游频道发布；本仓库不提供新版本、不接受功能需求。
+
+## 关于本存档
+
+| 项 | 说明 |
+|---|---|
+| 来源 | 上游 [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)，版本 1.1.71 |
+| 默认分支 | `master`（与上游一致） |
+| 许可 | 商业许可（见 [LICENSE](LICENSE)），不是 MIT；二开与商用先看下文「署名要求」「许可证」 |
+| 本地新增 | 仅 `docs/` 下的研究笔记：`redteam-upstream-DISCLOSURE`、`redteam-upstream-LICENSE` 与 1.1.34 相关文档；其余文件均来自上游归档 |
+| 安装 | 仍走上游 GitHub 归档地址（见下文「安装」），不要 `pnpm add dsh-purge` |
+
+---
+
+<p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>
 
